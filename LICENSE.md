@@ -1,4 +1,4 @@
-
+Enhance your Mullvad experience with Mullvad rare Client: WireGuard-support & no-logs-policy, the #1 client. Includes WireGuard-support and no-logs-policy for a safer and more
 
 
 
